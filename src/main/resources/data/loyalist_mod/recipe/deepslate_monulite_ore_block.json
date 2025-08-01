@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1,
+  "ingredient": {
+    "item": "loyalist_mod:raw_monulite"
+  },
+  "result": {
+    "id": "loyalist_mod:monulite_ingot"
+  }
+}

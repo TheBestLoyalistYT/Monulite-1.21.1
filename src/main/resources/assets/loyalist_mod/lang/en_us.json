@@ -1,0 +1,12 @@
+{
+  "itemgroup.loyalistmod.monulite_items": "Monulite Items",
+
+  "item.loyalist_mod.coin_mold": "Coin Mold",
+  "item.loyalist_mod.raw_monulite": "Raw Monulite",
+  "item.loyalist_mod.monulite_ingot": "Monulite Ingot",
+  "item.loyalist_mod.monulite_ooz": "Monulite Ooz",
+  "item.loyalist_mod.monulite_coin": "Monulite Coin",
+  "block.loyalist_mod.deepslate_monulite_ore_block": "Deepslate Monulite Ore",
+  "block.loyalist_mod.monulite_ore_block": "Monulite Ore",
+  "block.loyalist_mod.monulite_block": "Monulite Block"
+}
