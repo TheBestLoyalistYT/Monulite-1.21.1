@@ -25,8 +25,15 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.COIN_MOLD, Models.GENERATED);
         itemModelGenerator.register(ModItems.MONULITE_INGOT, Models.GENERATED);
         itemModelGenerator.register(ModItems.MONULITE_COIN, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MONULITE_COIN_STACK, Models.GENERATED);
         itemModelGenerator.register(ModItems.RAW_MONULITE, Models.GENERATED);
         itemModelGenerator.register(ModItems.MONULITE_OOZ, Models.GENERATED);
+
+        itemModelGenerator.register(ModItems.MONULITE_SWORD, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.MONULITE_PICKAXE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.MONULITE_SHOVEL, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.MONULITE_AXE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.MONULITE_HOE, Models.HANDHELD);
 
     }
 }

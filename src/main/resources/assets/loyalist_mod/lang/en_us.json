@@ -6,6 +6,13 @@
   "item.loyalist_mod.monulite_ingot": "Monulite Ingot",
   "item.loyalist_mod.monulite_ooz": "Monulite Ooz",
   "item.loyalist_mod.monulite_coin": "Monulite Coin",
+
+  "item.loyalist_mod.monulite_sword": "Monulite Sword",
+  "item.loyalist_mod.monulite_pickaxe": "Monulite Pickaxe",
+  "item.loyalist_mod.monulite_shovel": "Monulite Shovel",
+  "item.loyalist_mod.monulite_axe": "Monulite Axe",
+  "item.loyalist_mod.monulite_hoe": "Monulite Hoe",
+
   "block.loyalist_mod.deepslate_monulite_ore_block": "Deepslate Monulite Ore",
   "block.loyalist_mod.monulite_ore_block": "Monulite Ore",
   "block.loyalist_mod.monulite_block": "Monulite Block"
